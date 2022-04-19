@@ -1,7 +1,2 @@
----
-description: Some Description
----
+# Page 1
 
-# Assets
-
-This is page one, text before open API
